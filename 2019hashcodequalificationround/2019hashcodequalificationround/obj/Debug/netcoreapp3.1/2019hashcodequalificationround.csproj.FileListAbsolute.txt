@@ -1,0 +1,11 @@
+C:\Users\DC\source\repos\2019hashcodequalificationround\2019hashcodequalificationround\bin\Debug\netcoreapp3.1\2019hashcodequalificationround.exe
+C:\Users\DC\source\repos\2019hashcodequalificationround\2019hashcodequalificationround\bin\Debug\netcoreapp3.1\2019hashcodequalificationround.deps.json
+C:\Users\DC\source\repos\2019hashcodequalificationround\2019hashcodequalificationround\bin\Debug\netcoreapp3.1\2019hashcodequalificationround.runtimeconfig.json
+C:\Users\DC\source\repos\2019hashcodequalificationround\2019hashcodequalificationround\bin\Debug\netcoreapp3.1\2019hashcodequalificationround.runtimeconfig.dev.json
+C:\Users\DC\source\repos\2019hashcodequalificationround\2019hashcodequalificationround\bin\Debug\netcoreapp3.1\2019hashcodequalificationround.dll
+C:\Users\DC\source\repos\2019hashcodequalificationround\2019hashcodequalificationround\bin\Debug\netcoreapp3.1\2019hashcodequalificationround.pdb
+C:\Users\DC\source\repos\2019hashcodequalificationround\2019hashcodequalificationround\obj\Debug\netcoreapp3.1\2019hashcodequalificationround.csprojAssemblyReference.cache
+C:\Users\DC\source\repos\2019hashcodequalificationround\2019hashcodequalificationround\obj\Debug\netcoreapp3.1\2019hashcodequalificationround.AssemblyInfoInputs.cache
+C:\Users\DC\source\repos\2019hashcodequalificationround\2019hashcodequalificationround\obj\Debug\netcoreapp3.1\2019hashcodequalificationround.AssemblyInfo.cs
+C:\Users\DC\source\repos\2019hashcodequalificationround\2019hashcodequalificationround\obj\Debug\netcoreapp3.1\2019hashcodequalificationround.dll
+C:\Users\DC\source\repos\2019hashcodequalificationround\2019hashcodequalificationround\obj\Debug\netcoreapp3.1\2019hashcodequalificationround.pdb
